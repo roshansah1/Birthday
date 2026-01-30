@@ -1,6 +1,6 @@
 const textConfig = {
   landing: {
-    title: "Happy Birthday, Yogita! 🎂✨",
+    title: "Happy Birthday Mera Bhaluuuuuuuu Loveeeee you soo muchh 🎂✨",
     subtitle: "Today is all about celebrating the most amazing person in my world. I've created something magical just for you on your special day...",
     lastLine: "Ready for your birthday surprise?",
     button: "Let's Gooo",
@@ -51,9 +51,9 @@ You bring so much joy, laughter, and love into this world - and into my life. Yo
     chooseTrackHint: "Choose your birthday soundtrack ✨",
     continueButton: "Continue to Birthday Surprises ✨",
     tracks: [
-      { id: 1, title: "Dil Ka Jo Haal Hai", caption: "Here's to making this year unforgettable 🌟" },
-      { id: 2, title: "Dil Cheeze Tujhe Dedi", caption: "Because today is all about YOU, queen! 👑" },
-      { id: 2, title: "If the world was ending...", caption: "Every beat celebrates your beautiful heart 💖" },
+      { id: 1, title: "Sheesha", caption: "Here's to making this year unforgettable 🌟" },
+      { id: 2, title: "Haye re meri motto", caption: "Because today is all about YOU, queen! 👑" },
+      { id: 3, title: "If the world was ending...", caption: "Every beat celebrates your beautiful heart 💖" },
     ]
   },
 
@@ -73,9 +73,9 @@ You bring so much joy, laughter, and love into this world - and into my life. Yo
       stay: "Enjoy the wishes a bit longer"
     },
     cardMessages: [
-      "Happy Birthday to the girl who makes every day feel like a celebration! 🎉💕",
-      "Another year of being absolutely incredible, beautiful, and perfect just the way you are! ✨",
-      "May this new year bring you endless joy, love, and all the dreams your heart desires! 🌟💖"
+      "Happy birthday to my little princess your smile brightens our world in the most beautiful way. May your life always be filled with love, laughter, and happiness! 🎉💕",
+      "Happy Birthday, sweetheart May you always dream big, smile often, and know how deeply you are loved! ✨",
+      "You are not just my niece, you are a piece of my heart. Watching you grow is one of my greatest joys! 🌟💖"
     ]
   },
 
